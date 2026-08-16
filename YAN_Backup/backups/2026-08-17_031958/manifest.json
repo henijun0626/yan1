@@ -1,0 +1,21 @@
+{
+  "format": "yan-github-backup",
+  "version": 1,
+  "createdAt": 1786907998839,
+  "originalSize": 19666,
+  "compressedSize": 6372,
+  "encrypted": false,
+  "compression": "gzip",
+  "encryption": null,
+  "chunkSize": 716800,
+  "chunkCount": 1,
+  "chunks": [
+    {
+      "path": "chunks/0001.bin",
+      "size": 6372,
+      "sha256": "294839d63de8097573a2374c4ac9890aae7c8868c6dafcf2f3bb4c9b47a706d5"
+    }
+  ],
+  "storeVersion": null,
+  "appVersion": ""
+}
